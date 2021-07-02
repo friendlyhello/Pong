@@ -14,12 +14,20 @@ public class Ball : MonoBehaviour
     }
 
     // Start is called before the first frame update
-    private void Start()
+    public void Start()
     {
+        ResetPosition();
         AddStartingForce();
     }
 
-    private void AddStartingForce()
+    // Reset the game
+    public void ResetPosition()
+    {
+        _rigidbody.position = Vector2.zero;
+        _rigidbody.velocity = Vector2.zero;
+    }
+
+    public void AddStartingForce()
     {
         float y = Random.value < 0.5 ? -1.0f : 1.0f;
         float x = Random.value < 0.5f ? Random.Range(-1.0f, -0.5f) : Random.Range(0.5f, 1.0f);

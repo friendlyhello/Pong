@@ -18,6 +18,12 @@ public class Paddle : MonoBehaviour
         // Look for the Rigidbody2D component this script is attached to 
         _rigidbody = GetComponent<Rigidbody2D>();
     }
+
+    public void ResetPosition()
+    {
+        _rigidbody.position = new Vector2(_rigidbody.position.x, 0.0f);
+        _rigidbody.velocity = Vector2.zero;
+    }
 }
 
 
