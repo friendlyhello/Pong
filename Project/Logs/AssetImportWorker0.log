@@ -1158,3 +1158,388 @@ System memory in use after: 191.3 MB.
 Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2706.
 Total: 2.774039 ms (FindLiveObjects: 0.321556 ms CreateObjectMapping: 0.076207 ms MarkObjects: 2.220691 ms  DeleteObjects: 0.154606 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 4082.529195 seconds.
+  path: Assets/Scripts/BounceySurface.cs
+  artifactKey: Guid(523f7eebaa7644c6fa3c3fbd9595da3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/BounceySurface.cs using Guid(523f7eebaa7644c6fa3c3fbd9595da3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2dce739e3303360f78b8f8c2524f7cc1') in 0.015126 seconds
+  Import took 0.019316 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020991 seconds.
+  path: Assets/Scripts/BounceySurface.cs
+  artifactKey: Guid(523f7eebaa7644c6fa3c3fbd9595da3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/BounceySurface.cs using Guid(523f7eebaa7644c6fa3c3fbd9595da3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2dce739e3303360f78b8f8c2524f7cc1') in 0.002547 seconds
+  Import took 0.007521 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002027 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.315 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2079 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 191.7 MB.
+System memory in use after: 191.7 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2711.
+Total: 3.117381 ms (FindLiveObjects: 0.305868 ms CreateObjectMapping: 0.139155 ms MarkObjects: 2.543551 ms  DeleteObjects: 0.127379 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002104 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.316 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2078 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 191.9 MB.
+System memory in use after: 192.0 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2714.
+Total: 2.902587 ms (FindLiveObjects: 0.283962 ms CreateObjectMapping: 0.092994 ms MarkObjects: 2.398085 ms  DeleteObjects: 0.126539 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.729189 seconds.
+  path: Assets/Scripts/BouncySurface.cs
+  artifactKey: Guid(722a573984d274756be242eaf5f6e114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/BouncySurface.cs using Guid(722a573984d274756be242eaf5f6e114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5609f6da421ca0b6812befe5c6883205') in 0.007663 seconds
+  Import took 0.011587 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.032249 seconds.
+  path: Assets/Scripts/BouncySurface.cs
+  artifactKey: Guid(722a573984d274756be242eaf5f6e114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/BouncySurface.cs using Guid(722a573984d274756be242eaf5f6e114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5609f6da421ca0b6812befe5c6883205') in 0.003541 seconds
+  Import took 0.007815 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002029 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.413 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.78 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2079 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 192.1 MB.
+System memory in use after: 192.2 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2719.
+Total: 3.779024 ms (FindLiveObjects: 0.398029 ms CreateObjectMapping: 0.116781 ms MarkObjects: 3.141929 ms  DeleteObjects: 0.120872 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 90.609039 seconds.
+  path: Assets/Scripts/BouncySurface.cs
+  artifactKey: Guid(722a573984d274756be242eaf5f6e114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/BouncySurface.cs using Guid(722a573984d274756be242eaf5f6e114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '176c2ac0ef979b584d1b36bb69651277') in 0.008718 seconds
+  Import took 0.013012 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002029 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.433 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2079 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 192.3 MB.
+System memory in use after: 192.4 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2723.
+Total: 2.807003 ms (FindLiveObjects: 0.330170 ms CreateObjectMapping: 0.093663 ms MarkObjects: 2.261582 ms  DeleteObjects: 0.120581 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 180.656506 seconds.
+  path: Assets/Scripts/BouncySurface.cs
+  artifactKey: Guid(722a573984d274756be242eaf5f6e114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/BouncySurface.cs using Guid(722a573984d274756be242eaf5f6e114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfcef5077c3a43a7b0c0bbe3da257c45') in 0.007247 seconds
+  Import took 0.011759 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002282 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.415 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2079 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 192.5 MB.
+System memory in use after: 192.6 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2727.
+Total: 2.540236 ms (FindLiveObjects: 0.224992 ms CreateObjectMapping: 0.080265 ms MarkObjects: 2.114826 ms  DeleteObjects: 0.119258 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 205.746697 seconds.
+  path: Assets/Scripts/BouncySurface.cs
+  artifactKey: Guid(722a573984d274756be242eaf5f6e114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/BouncySurface.cs using Guid(722a573984d274756be242eaf5f6e114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e26a062e34eaa44cbe52cb5870c7e40f') in 0.007293 seconds
+  Import took 0.011663 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002084 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.434 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2079 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 192.7 MB.
+System memory in use after: 192.8 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2731.
+Total: 3.025679 ms (FindLiveObjects: 0.228759 ms CreateObjectMapping: 0.080936 ms MarkObjects: 2.503183 ms  DeleteObjects: 0.211610 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 50.077476 seconds.
+  path: Assets/Scripts/BouncySurface.cs
+  artifactKey: Guid(722a573984d274756be242eaf5f6e114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/BouncySurface.cs using Guid(722a573984d274756be242eaf5f6e114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58b04964fec07423cf9d5c7c25a269cf') in 0.008132 seconds
+  Import took 0.012285 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002249 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.358 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2079 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 192.9 MB.
+System memory in use after: 193.0 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2735.
+Total: 2.472524 ms (FindLiveObjects: 0.260677 ms CreateObjectMapping: 0.087329 ms MarkObjects: 2.010046 ms  DeleteObjects: 0.113344 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.364307 seconds.
+  path: Assets/Scripts/BouncySurface.cs
+  artifactKey: Guid(722a573984d274756be242eaf5f6e114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/BouncySurface.cs using Guid(722a573984d274756be242eaf5f6e114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b73e31289e662696ec4dabd2db1f8594') in 0.008388 seconds
+  Import took 0.012939 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002136 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.432 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2079 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 193.1 MB.
+System memory in use after: 193.2 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2739.
+Total: 2.754712 ms (FindLiveObjects: 0.289888 ms CreateObjectMapping: 0.084282 ms MarkObjects: 2.269348 ms  DeleteObjects: 0.110299 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002280 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.426 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2079 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 193.3 MB.
+System memory in use after: 193.4 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2743.
+Total: 2.534745 ms (FindLiveObjects: 0.228204 ms CreateObjectMapping: 0.083237 ms MarkObjects: 2.113753 ms  DeleteObjects: 0.108697 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 224.212470 seconds.
+  path: Assets/Scripts/BouncySurface.cs
+  artifactKey: Guid(722a573984d274756be242eaf5f6e114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/BouncySurface.cs using Guid(722a573984d274756be242eaf5f6e114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61088afdbbf8ae243e60d9417025c8f5') in 0.008630 seconds
+  Import took 0.014030 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.101449 seconds.
+  path: Assets/Scripts/BouncySurface.cs
+  artifactKey: Guid(722a573984d274756be242eaf5f6e114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/BouncySurface.cs using Guid(722a573984d274756be242eaf5f6e114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61088afdbbf8ae243e60d9417025c8f5') in 0.003164 seconds
+  Import took 0.008239 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002276 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.361 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2079 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 193.5 MB.
+System memory in use after: 193.6 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2747.
+Total: 3.313333 ms (FindLiveObjects: 0.331058 ms CreateObjectMapping: 0.190325 ms MarkObjects: 2.641331 ms  DeleteObjects: 0.149301 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.571283 seconds.
+  path: Assets/Scripts/BouncySurface.cs
+  artifactKey: Guid(722a573984d274756be242eaf5f6e114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/BouncySurface.cs using Guid(722a573984d274756be242eaf5f6e114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbb48eb2409821df655d6e2a6ad98116') in 0.008013 seconds
+  Import took 0.012015 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002058 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.317 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2079 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 193.7 MB.
+System memory in use after: 193.8 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2751.
+Total: 2.763305 ms (FindLiveObjects: 0.313775 ms CreateObjectMapping: 0.105939 ms MarkObjects: 2.222136 ms  DeleteObjects: 0.120482 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.696377 seconds.
+  path: Assets/Scripts/BouncySurface.cs
+  artifactKey: Guid(722a573984d274756be242eaf5f6e114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/BouncySurface.cs using Guid(722a573984d274756be242eaf5f6e114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b49d22db04b5cc62fd865e8e63909acd') in 0.008033 seconds
+  Import took 0.011708 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002163 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.311 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2079 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 193.9 MB.
+System memory in use after: 194.0 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2755.
+Total: 2.930071 ms (FindLiveObjects: 0.314841 ms CreateObjectMapping: 0.088752 ms MarkObjects: 2.392954 ms  DeleteObjects: 0.132583 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 74.974708 seconds.
+  path: Assets/Scripts/BouncySurface.cs
+  artifactKey: Guid(722a573984d274756be242eaf5f6e114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/BouncySurface.cs using Guid(722a573984d274756be242eaf5f6e114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a11e6bbf849cde1fd37c44db0b97569') in 0.007493 seconds
+  Import took 0.012179 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002569 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.459 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.73 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2079 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 194.1 MB.
+System memory in use after: 194.2 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2759.
+Total: 2.975668 ms (FindLiveObjects: 0.335055 ms CreateObjectMapping: 0.094716 ms MarkObjects: 2.413358 ms  DeleteObjects: 0.131427 ms)
+
