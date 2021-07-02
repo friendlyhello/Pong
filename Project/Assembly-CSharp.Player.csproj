@@ -56,9 +56,10 @@
     <Analyzer Include="/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Analyzers/Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets/Scripts/Paddle.cs" />
     <Compile Include="Assets/Scripts/PlayerPaddle.cs" />
     <Compile Include="Assets/Scripts/ComputerPaddle.cs" />
+    <Compile Include="Assets/Scripts/Paddle.cs" />
+    <Compile Include="Assets/Scripts/Ball.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

@@ -4,15 +4,38 @@ using UnityEngine;
 
 public class ComputerPaddle : Paddle
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    // Reference to ball
+    public Rigidbody2D ball;
 
-    // Update is called once per frame
-    void Update()
+    // FixedUpdate is used for Physics
+    void FixedUpdate()
     {
-        
+        // If the ball is heading towards the Computer Paddle...
+        if(transform.position.x > 0.0f)
+        {
+            if (ball.position.y > transform.position.y)
+            {
+                _rigidbody.AddForce(Vector2.up * speed);
+            }
+
+            else if(ball.position.y < transform.position.y)
+            {
+                _rigidbody.AddForce(Vector2.down * speed);
+            }
+        }
+
+        // If the ball is heading away from the Computer Paddle, try to re-center in the middle
+        else
+        {
+            if (transform.position.y > 0.0f)
+            {
+                _rigidbody.AddForce(Vector2.down * speed);
+            }
+
+            else if (transform.position.y < 0.0f)
+            {
+                _rigidbody.AddForce(Vector2.up * speed);
+            }
+        }
     }
 }
